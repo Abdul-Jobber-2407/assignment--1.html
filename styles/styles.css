@@ -45,9 +45,29 @@
     text-align: center;
 }
 
+#parents{
+    display: flex;
+}
 
 
 
-.
+#header{
+    text-align: center;
+}
+
+.web-description{
+    text-align: center;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 35px;
+}
+
+/* #banner-profile-pic2{
+    text-align: ;
+} */
+
 
 
