@@ -108,31 +108,30 @@
     gap: 20px;
 }
 
-/*     height: 615px;
-    background-image: url(../assets/Hero-bg.png);
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center; 
-        text-align: center;
-    justify-content: center;
-    align-items: center;
-    margin: 0 auto;*/
-
-/* handshake part  */
+ /* handshake part  */
 .handshake{
     text-align: center;
     justify-content: center;
     align-items: center;
-    margin: 0 auto;
+    margin:;
     background-image: url(../assets/handshake.jpg);
     background-size: cover;
     
     justify-content: center;
     align-items: center;
+    padding:500px 30px;
     
 }
 .title{
     text-align: center;
 }
 
+
+/* footer part  */
+footer{
+    display: flex;
+    gap: 320px;
+    margin: 0 auto;
+    justify-content: space-between;
+
+}
