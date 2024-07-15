@@ -65,9 +65,74 @@
     margin: 0 35px;
 }
 
-/* #banner-profile-pic2{
-    text-align: ;
-} */
+.inspiration{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.inspiration-distance{
+    font-size: 32px;
+    font-family: Azeret Mono;
+    color: #0D1321;
+}
+ .inspiration-descripton{
+    color: #1E1E1E;
+ }
 
 
+
+ /* skill part  */
+ 
+
+.skills-container{
+    display: flex;
+    gap: 1px;
+   
+}
+.skill{
+    padding: 10px;
+    box-shadow: 0px 6px 50px 0px #EBEBEB ;
+    text-align: center;
+
+    margin: 0 auto;
+    
+}
+
+.section-title{
+    text-align: center;
+}
+
+.section-description{
+    text-align: center;
+    gap: 20px;
+}
+
+/*     height: 615px;
+    background-image: url(../assets/Hero-bg.png);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+        text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;*/
+
+/* handshake part  */
+.handshake{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    background-image: url(../assets/handshake.jpg);
+    background-size: cover;
+    
+    justify-content: center;
+    align-items: center;
+    
+}
+.title{
+    text-align: center;
+}
 
